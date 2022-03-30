@@ -5,3 +5,5 @@
 <img src="https://user-images.githubusercontent.com/90699287/141798742-df33347c-35e8-4bea-9e51-e614d48b1dab.png" style=width:500px;>
 <h2> 3.RGB Color generator</h2>
 <img src="https://user-images.githubusercontent.com/90699287/142243338-d4a16e55-9b2c-4f96-b98b-2826b6162d14.png" style=width:500px>
+<h2> 4.Music Player</h2>
+<img src="https://user-images.githubusercontent.com/90699287/160916203-48e16931-02b9-4479-93ec-63113a4dabfc.png" style=width:400px>
